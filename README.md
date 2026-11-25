@@ -821,13 +821,18 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-https://github.com/Aniruth-S/Calculator-App/raw/main/image.png
+<img width="1907" height="1070" alt="1" src="https://github.com/user-attachments/assets/440e2b1d-e573-41d7-9ea2-9150d562d2be" />
 
-https://github.com/Aniruth-S/Calculator-App/raw/main/image-1.png
 
-https://github.com/Aniruth-S/Calculator-App/raw/main/image-2.png
+<img width="1917" height="1076" alt="2" src="https://github.com/user-attachments/assets/1a36bbd9-587e-4756-b40d-6e51be54435f" />
 
-https://github.com/Aniruth-S/Calculator-App/raw/main/image-3.png
+
+
+
+<img width="1917" height="1076" alt="33" src="https://github.com/user-attachments/assets/a5e3ec1b-00b3-4c71-812b-b47dadd5d747" />
+
+
+<img width="1917" height="1076" alt="4" src="https://github.com/user-attachments/assets/b4aea714-b03c-4e1e-b161-e3b6c6b81fa1" />
 
 
 ## RESULT
