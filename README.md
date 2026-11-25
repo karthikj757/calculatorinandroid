@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program 
-Developed by: Karthik J
-Registeration Number : 212225040176
+Developed by: Aniruth S 
+Registeration Number : 212225040020
 */
 ```
 
@@ -820,10 +820,11 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
-![alt text](image.png)
 
-![alt text](image-1.png)
 
-![alt text](image-2.png)
 
-![alt text](image-3.png)
+
+
+## RESULT
+
+Thus a Simple Android Application to create your own simple calculator using Android Studio is developed and executed successfully
